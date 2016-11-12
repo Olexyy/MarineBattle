@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1448893206 source:c:\codeblocks\1\classes.cpp
+	"classes.h"
+
+1448890545 c:\codeblocks\1\classes.h
+	<iostream>
+	<random>
+
+1448889585 source:c:\codeblocks\1\mb_m.cpp
+	"classes.h"
+	<windows.h>
+	<random>
+	<time.h>
+
